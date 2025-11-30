@@ -36,7 +36,7 @@ The Tableau workbook includes:
 
 ## Author
 * Siddharth Patel
-* Master's in Business Analytics Candidate
+* Master's in Business Analytics and Artificial Intelligence Candidate
 * University of South Florida
 
 ## Attachments
