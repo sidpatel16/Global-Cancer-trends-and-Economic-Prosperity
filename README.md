@@ -1,5 +1,8 @@
 # Global Cancer Trends & Economic Prosperity Analysis
 
+View Visualization on Tableau Public
+https://public.tableau.com/views/GlobalCancerTrendsEconomicProsperityAnalysis/CountryCancerIncidence?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Project Overview
 This project explores the relationship between a country's economic status (measured by GDP per Capita) and its cancer statistics. Using data from 2022, the analysis investigates whether higher economic prosperity correlates with lower cancer incidence or mortality rates.
 
